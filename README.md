@@ -1,5 +1,5 @@
 # Business_Analytics_Practice
-A sample of my GroceryStore database and python scripts.
+A sample of my GroceryStore database and python scripts. While I'm looking for a Job!
 
 ### Location of the python files
 Business_Analytic_Practice/GroceryStore/PythonScript/
