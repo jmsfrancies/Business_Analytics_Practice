@@ -9,7 +9,7 @@ aisle-section description*/
 INSERT INTO Aisles(aisle_section,aisle_description)
 VALUES
 	('1a','alcohol'),
-	('1b','Dired Goods'),
+	('1b','Dried Goods'),
 	('2a','Frozen Products'),
 	('2b','Meats'),
     ('3a','Fresh Produce'),
