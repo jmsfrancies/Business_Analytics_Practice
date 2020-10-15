@@ -1,6 +1,9 @@
 # Business_Analytics_Practice
 A sample of my GroceryStore database and python scripts. While I'm looking for a Job!
 
+### Command to install all of the python dependencies with pipenv
+pipenv install -r requirements.txt
+
 ### Location of the python files and command to use to run the files with python3
 cd \GroceryStore\PythonScript\
   
