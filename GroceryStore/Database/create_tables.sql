@@ -1,3 +1,6 @@
+DROP DATABASE IF EXISTS;
+CREATE DATABASE GroceryStore
+GO
 USE GroceryStore
 GO
 
