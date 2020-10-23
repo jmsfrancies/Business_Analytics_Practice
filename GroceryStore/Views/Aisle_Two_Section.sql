@@ -1,12 +1,7 @@
 USE GroceryStore
 GO
-/*Frozen Products 2a
-frozen_food_title, frozen_food_brand, 
-frozen_food_cost,frozen_food_qty,aisle_section
-  
- Meats 2b
- meats_title, meats_brand,
- meat_cost_per_pound,meat_pkgd_qty,aisle_section
+/*
+Aisle Two Section's products
  */
  CREATE VIEW Aisle_Two_Section
  AS

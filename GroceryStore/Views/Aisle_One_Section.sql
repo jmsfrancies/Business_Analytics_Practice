@@ -1,12 +1,8 @@
 USE GroceryStore
 GO
 /*
-alcohol section 1a
-dried goods section 1b
-
-alcohol name, alcohol, alcohol cost alcohol, aisle section
-dried goods title, dried goods brand, dried goods cost, aisle section 
-*/
+Aisle One Section's products
+ */
 CREATE VIEW Aisle_One_Section
 AS
 SELECT 'Alcohol' AS item_type, 

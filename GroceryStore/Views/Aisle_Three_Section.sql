@@ -1,10 +1,8 @@
 USE GroceryStore
 GO
 /*
-fresh produce type, fresh produce cost per pound,fresh produce qty, aisle section
-deli type, deli cost per pound ,deli qty, aisle section
-dairy product type, dairy cost, dairy qty, aisle section
-*/
+Aisle Three Section's products
+ */
 CREATE VIEW Aisle_Three_Section
 AS
 SELECT 'Fresh Produce' AS item_type, 
