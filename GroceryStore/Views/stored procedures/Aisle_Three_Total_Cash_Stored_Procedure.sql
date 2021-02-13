@@ -1,3 +1,6 @@
+USE GroceryStore
+GO
+
 create Procedure spAisleThreeCashTotal
 as
 begin

@@ -1,3 +1,6 @@
+USE GroceryStore
+GO
+
 create Procedure spAisleTwo_GetAll
 as
 begin
